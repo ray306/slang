@@ -649,7 +649,7 @@
 
 	  $('#internal').click(function(){
 	        var internal = window.prompt("Please enter the password:", "");
-	        window.location.href = internal+'.html';
+	        if(internal.length>0){window.location.href = internal+'.html';}	
 	    });
 	</script>
 	<!-- Smoothscroll -->
