@@ -1269,8 +1269,25 @@ p.copyright {
     width: 220px;
 }
 
-#Members img{
+#People img{
 	text-align: center;
 	height: 155px;
     width: 155px;
+}
+
+.boxed-grey-small {
+	background: #f9f9f9;
+	padding: 20px 30px;
+    margin-bottom: 10px;
+	width: 150px;
+}
+
+.boxed-grey-small h4{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#People .boxed-grey-small img{
+	height: 90px;
+	width: 90px;
 }
