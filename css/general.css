@@ -216,11 +216,11 @@ background: #1abc9c !important;
 	min-height: 60px;
 	width: 100%;
 	z-index: 999;
-	
 }
 
-.navbar-default .navbar-nav>li>a {
-color: #ffffff;
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    margin-right: -21px;
+    margin-left: -21px;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
@@ -250,8 +250,8 @@ color: #ECEBEB;
 	padding-top: 20px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	padding-bottom: 20px;
 	color: #f8f8f8;
-	background: url(../img/2.png) no-repeat center center;
-	background-size: 100%; /* cover */
+	background: url(../img/bg.png) no-repeat center center;
+
 	text-align: center;
 }
 
