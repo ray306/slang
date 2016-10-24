@@ -250,8 +250,9 @@ color: #ECEBEB;
 	padding-top: 20px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	padding-bottom: 20px;
 	color: #f8f8f8;
-	background: url(../img/bg.jpg) no-repeat center center;
 
+	background: url(../img/bg.jpg) no-repeat center center;
+	background-color: #e5e5e5;
 	text-align: center;
 }
 
