@@ -1263,6 +1263,26 @@ p.copyright {
 
 }
 
+#top {
+	padding: 0px 0;
+	margin: 0px 0
+}
+
+#top img {
+	float: left;
+	padding-right: 30px;
+}
+
+#top span {
+	
+}
+
+.main_logo {
+	margin-top:15px;
+	width:334px;
+	height:30px
+}
+
 .boxed-grey {
     background: #f9f9f9;
     padding: 20px 30px;
