@@ -1263,18 +1263,25 @@ p.copyright {
 
 }
 
+.typora-export #write h2{
+    margin-top: -30px;
+}
+
 #top {
 	padding: 0px 0;
-	margin: 0px 0
+	margin: 0px 0;
 }
 
 #top img {
-	float: left;
-	padding-right: 30px;
+	margin-top: 10px;
 }
 
-#top span {
-	
+#top #write h2 {
+	margin-top: -90px;
+}
+
+#top .overview {
+	margin-top: -80px;
 }
 
 .main_logo {
@@ -1317,3 +1324,4 @@ p.copyright {
 #Research {
 	padding-top: 60px;
 }
+
