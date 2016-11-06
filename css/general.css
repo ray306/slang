@@ -1267,13 +1267,17 @@ p.copyright {
     margin-top: -30px;
 }
 
+.typora-export li {
+    list-style-type: circle;
+}
+
 #top {
 	padding: 0px 0;
 	margin: 0px 0;
 }
 
 #top img {
-	margin-top: 10px;
+	margin-top: -20px;
 }
 
 #top #write h2 {
