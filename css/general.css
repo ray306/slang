@@ -246,9 +246,9 @@ color: #ECEBEB;
 }
 
 .intro-header {
-	height: 100%; /* Full PAge */
-	padding-top: 20px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-	padding-bottom: 20px;
+	height: 85%; /* Full Page */
+	padding-top: 40px; 
+	/*padding-bottom: 0px;*/
 	color: #f8f8f8;
 
 	background: url(../img/bg.jpg) no-repeat center center;
@@ -302,13 +302,13 @@ color: #ECEBEB;
 
 .content-section-a {
 	background-color: #f8f8f8;
-	padding: 50px 0; 
+	padding: 80px 0; 
 }
 
 .content-section-b {
 	border-top: 1px solid #e7e7e7;
 	border-bottom: 1px solid #e7e7e7;
-	padding: 50px 0; 
+	padding: 80px 0; 
 }
 
 .section-heading {
@@ -1324,8 +1324,3 @@ p.copyright {
 	height: 90px;
 	width: 90px;
 }
-
-#Research {
-	padding-top: 60px;
-}
-
