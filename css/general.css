@@ -1327,6 +1327,10 @@ p.copyright {
 	width: 90px;
 }
 
+.navbar-toggle{
+	float: left;
+}
+
 .center {
 	display: flex;
     /*flex-direction: column;*/
