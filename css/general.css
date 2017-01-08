@@ -1289,7 +1289,9 @@ p.copyright {
 }
 
 .main_logo {
-	margin-top:15px;
+	float: left;
+	/*padding: 15px 0px;*/
+	margin:15px 15px;
 	width:334px;
 	height:30px
 }
