@@ -1326,3 +1326,9 @@ p.copyright {
 	height: 90px;
 	width: 90px;
 }
+
+.center {
+	display: flex;
+    /*flex-direction: column;*/
+    justify-content: center;
+}
