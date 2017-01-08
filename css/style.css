@@ -4777,3 +4777,7 @@ footer p {
     background-color: #34495e;
     color: #fff;
   }
+
+  .to_left {
+    text-align: left;
+  }
